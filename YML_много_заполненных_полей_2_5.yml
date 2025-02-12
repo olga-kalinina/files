@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Комментарий. Не забудь поменять дату на не познее чем 10 дней от сегодня (гггг-мм-дд) -->
+<yml_catalog date="2025-02-12T10:37:38+03:00">
+    <shop>
+        <name>Все для Квиддича</name>
+        <company>Все для Квиддича</company>
+        <url>http://ya.ru</url>
+        <platform>Tilda</platform>
+        <version>1.0</version>
+        <agency>Технологичные решения</agency>
+        <email>example-email@gmail.com</email>
+<!-- categories Нужен только в YML-файле, управляющем товарами. Это партнерские категории (создание категорий)
+        <categories>
+        <category id="1">Садовые щетки и метлы</category>
+</categories>
+-->
+        <offers>
+            <offer id="MRKT-91XH807T">
+                <name>Fiskars, Насадка для метлы Solidtm, средняяяя</name>
+                <market_category_id>16079629</market_category_id>
+                <!--<categoryId>1</categoryId>-->
+
+                <vendor>!K7</vendor>
+                <vendorCode></vendorCode>
+
+                <set-ids>yml</set-ids> <!-- это поле ТЕГ -->
+
+                <price>1100</price>
+                <oldprice>1600</oldprice>
+                <purchase_price>200</purchase_price>
+                <additional_expenses>75</additional_expenses>
+                <cofinance_price>900</cofinance_price>
+
+                <picture>//avatars.mds.yandex.net/get-mpic/4080967/2a000001934e485e8448188713ca4185f0e4/orig</picture>
+                <manual title="Инструкция по эксплуатации">https://www.uralline.ru/uploadedFiles/files/kvt_pasport/passport_BR.PDF</manual>
+                <description>
+                    <![CDATA[
+                        <h3>Автомобильный компрессор Xiaomi однопоршневой</h3>
+                        <p>Хороший компрессор</p>
+                    ]]>
+                </description>
+                <country_of_origin>Китай</country_of_origin>
+                <barcode>777888111222</barcode>
+
+                <weight>3.6</weight>
+                <dimensions>20.1/20.5/22.5</dimensions>
+                <box-count>1</box-count>
+
+                <tn-ved-codes>
+                  <tn-ved-code>8414805100</tn-ved-code>
+                </tn-ved-codes>
+
+                <param name="Цвет">черный</param>
+
+                <!-- Уценка начало
+                <condition type="renovated">
+                    <quality>perfect</quality>
+                    <reason>Есть царапины</reason>
+                </condition>
+                уценка конец -->
+            </offer>
+            <offer id="попытка бу">
+              <name>попытка бу</name>
+              <market_category_id>90463</market_category_id>
+              <vendor>Xiaomi</vendor>
+              <set-ids>yml</set-ids>
+              <price>1000</price>
+              <picture>https://y.yarn.co/c4bacdcc-92be-484a-b2d0-57c2c02534c6_text.gif</picture>
+              <description>
+                  <![CDATA[
+                      <h3>Автомобильный компрессор Xiaomi однопоршневой тесттест обновления</h3>
+                      <p>Хороший компрессор</p>
+                  ]]>
+              </description>
+              <country_of_origin>Китай</country_of_origin>
+              <barcode>7778881112911</barcode>
+              <weight>3.6</weight>
+              <dimensions>20.1/20.5/22.5</dimensions>
+              <tn-ved-codes>
+                <tn-ved-code>8414805100</tn-ved-code>
+              </tn-ved-codes>
+
+              <param name="Цвет">белый</param>
+              <param name="Номер карточки">компрессоры красивые</param>
+
+              <warranty-days>P365D</warranty-days>
+              <comment-warranty>Гарантия не распространяется на механические повреждения</comment-warranty>
+              <manufacturer_warranty>true</manufacturer_warranty>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
