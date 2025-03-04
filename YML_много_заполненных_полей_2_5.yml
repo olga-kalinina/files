@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Комментарий. Не забудь поменять дату на не познее чем 10 дней от сегодня (гггг-мм-дд) -->
-<yml_catalog date="2025-02-12T10:37:38+03:00">
+<yml_catalog date="2025-03-04T08:37:38+03:00">
     <shop>
         <name>Все для Квиддича</name>
         <company>Все для Квиддича</company>
@@ -15,40 +15,37 @@
 </categories>
 -->
         <offers>
-            <offer id="MRKT-91XH807T">
-                <name>Fiskars, Насадка для метлы Solidtm, средняяяя</name>
-                <market_category_id>16079629</market_category_id>
+            <offer id="MRKT-SR8LP2FF">
+                <name>браслет SWAROVSKI</name>
+                <archived>true</archived>
+                <market_category_id>1634396</market_category_id>
                 <!--<categoryId>1</categoryId>-->
 
-                <vendor>!K7</vendor>
+                <vendor>SWAROVSKI</vendor>
                 <vendorCode></vendorCode>
 
                 <set-ids>yml</set-ids> <!-- это поле ТЕГ -->
 
-                <price>1100</price>
-                <oldprice>1600</oldprice>
-                <purchase_price>200</purchase_price>
+                <price>11000</price>
+                <oldprice>16000</oldprice>
+                <purchase_price>2000</purchase_price>
                 <additional_expenses>75</additional_expenses>
-                <cofinance_price>900</cofinance_price>
+                <cofinance_price>9000</cofinance_price>
 
                 <picture>//avatars.mds.yandex.net/get-mpic/4080967/2a000001934e485e8448188713ca4185f0e4/orig</picture>
                 <manual title="Инструкция по эксплуатации">https://www.uralline.ru/uploadedFiles/files/kvt_pasport/passport_BR.PDF</manual>
                 <description>
                     <![CDATA[
-                        <h3>Автомобильный компрессор Xiaomi однопоршневой</h3>
-                        <p>Хороший компрессор</p>
+                        <h3>Браслет</h3>
+                        <p>Хороший Браслет</p>
                     ]]>
                 </description>
                 <country_of_origin>Китай</country_of_origin>
-                <barcode>777888111222</barcode>
+                <barcode>777888111233</barcode>
 
                 <weight>3.6</weight>
                 <dimensions>20.1/20.5/22.5</dimensions>
                 <box-count>1</box-count>
-
-                <tn-ved-codes>
-                  <tn-ved-code>8414805100</tn-ved-code>
-                </tn-ved-codes>
 
                 <param name="Цвет">черный</param>
 
