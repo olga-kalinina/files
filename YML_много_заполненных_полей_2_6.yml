@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Комментарий. Не забудь поменять дату на не познее чем 10 дней от сегодня (гггг-мм-дд) -->
-<yml_catalog date="2025-05-19T08:37:38+03:00">
+<yml_catalog date="2025-06-23T08:37:38+03:00">
     <shop>
         <name>Все для Квиддича</name>
         <company>Все для Квиддича</company>
@@ -15,142 +15,37 @@
 </categories>
 -->
         <offers>
-            <offer id="MRKT-SR8LP2FF">
-                <name>браслет SWAROVSKI</name>
-                <archived>true</archived>
-                <market_category_id>1634396</market_category_id>
+            <offer id="MRKT-SR8LP2FF22">
+                <name>Трихопол таблетки 250 мг 20 шт 2</name>
+                <market_category_id>15756919</market_category_id>
                 <!--<categoryId>1</categoryId>-->
 
-                <vendor>SWAROVSKI</vendor>
-                <vendorCode></vendorCode>
+                <vendor>Polpharma</vendor>
 
                 <set-ids>yml</set-ids> <!-- это поле ТЕГ -->
 
-                <price>11001</price>
-                <oldprice>16000</oldprice>
-                <purchase_price>2000</purchase_price>
+                <price>1001</price>
+                <oldprice>1000</oldprice>
+                <purchase_price>200</purchase_price>
                 <additional_expenses>75</additional_expenses>
-                <cofinance_price>9000</cofinance_price>
+                <cofinance_price>900</cofinance_price>
 
                 <picture>https://cs6.pikabu.ru/post_img/big/2015/06/08/3/1433735650_472905306.jpg</picture>
                 <description>
                     <![CDATA[
                         <h3>Браслет</h3>
-                        <p>Хороший Браслет</p>
+                        <p>Хороший таблет</p>
                     ]]>
                 </description>
                 <country_of_origin>Китаййй</country_of_origin>
-                <barcode>777888111233</barcode>
+                <barcode>777884111233</barcode>
 
-                <weight>3.6</weight>
-                <dimensions>20.1/20.5/22.5</dimensions>
+                <weight>1.6</weight>
+                <dimensions>10.1/10.5/12.5</dimensions>
                 <box-count>1</box-count>
 
-                <param name="Цвет">черный</param>
-
-                <!-- Уценка начало
-                <condition type="renovated">
-                    <quality>perfect</quality>
-                    <reason>Есть царапины</reason>
-                </condition>
-                уценка конец -->
-            </offer>
-            <offer id="УТ-00004876">
-              <name>попытка бу</name>
-              <market_category_id>91491</market_category_id>
-              <vendor>Samsung</vendor>
-              <set-ids>yml</set-ids>
-              <price>1000</price>
-              <picture>https://cs6.pikabu.ru/post_img/big/2015/06/08/3/1433735650_472905306.jpg</picture>
-              <description>
-                  <![CDATA[
-                      <h3>Автомобильный компрессор Xiaomi однопоршневой тесттест обновления</h3>
-                      <p>Хороший компрессор</p>
-                  ]]>
-              </description>
-              <country_of_origin>Китай</country_of_origin>
-              <barcode>7778881112911</barcode>
-              <weight>3.6</weight>
-              <dimensions>20.1/20.5/22.5</dimensions>
-
-              <param name="Цвет">белый</param>
-              <param name="Номер карточки">компрессоры красивые</param>
-            </offer>
-            <offer id="УТ-00004874">
-              <name>попытка бу</name>
-              <market_category_id>91491</market_category_id>
-              <vendor>Эпл</vendor>
-              <set-ids>yml</set-ids>
-              <price>1000</price>
-              <picture>https://cs6.pikabu.ru/post_img/big/2015/06/08/3/1433735650_472905306.jpg</picture>
-              <description>
-                  <![CDATA[
-                      <h3>Автомобильный компрессор Xiaomi однопоршневой тесттест обновления</h3>
-                      <p>Хороший компрессор</p>
-                  ]]>
-              </description>
-              <country_of_origin>Китай</country_of_origin>
-              <barcode>7778881112912</barcode>
-              <weight>3.6</weight>
-              <dimensions>20.1/20.5/22.5</dimensions>
-            </offer>
-            <offer id="УТ-00004873">
-              <name>попытка бу</name>
-              <market_category_id>90404</market_category_id>
-              <vendor>проларпа</vendor>
-              <set-ids>yml</set-ids>
-              <price>1000</price>
-              <picture>https://cs6.pikabu.ru/post_img/big/2015/06/08/3/1433735650_472905306.jpg</picture>
-              <description>
-                  <![CDATA[
-                      <h3>Автомобильный компрессор Xiaomi однопоршневой тесттест обновления</h3>
-                      <p>Хороший компрессор</p>
-                  ]]>
-              </description>
-              <country_of_origin>Китай</country_of_origin>
-              <barcode>7778581312911</barcode>
-              <weight>3.6</weight>
-              <dimensions>20.1/20.5/22.5</dimensions>
-              <param name="Цвет">белый</param>
-            </offer>
-            <offer id="УТ-00004883">
-              <name>попытка бу</name>
-              <market_category_id>90404</market_category_id>
-              <vendor>проларпа</vendor>
-              <set-ids>yml</set-ids>
-              <price>1000</price>
-              <picture>https://cs6.pikabu.ru/post_img/big/2015/06/08/3/1433735650_472905306.jpg</picture>
-              <description>
-                  <![CDATA[
-                      <h3>Автомобильный компрессор Xiaomi однопоршневой тесттест обновления</h3>
-                      <p>Хороший компрессор</p>
-                  ]]>
-              </description>
-              <country_of_origin>Китай</country_of_origin>
-              <barcode>7778887712911</barcode>
-              <weight>3.6</weight>
-              <dimensions>20.1/20.5/22.5</dimensions>
-              <param name="Цвет">белый</param>
-            </offer>
-            <offer id="УТ-00004884">
-              <name>попытка бу</name>
-              <market_category_id>91491</market_category_id>
-              <vendor>Эпл</vendor>
-              <set-ids>yml</set-ids>
-              <price>1000</price>
-              <picture>https://cs6.pikabu.ru/post_img/big/2015/06/08/3/1433735650_472905306.jpg</picture>
-              <description>
-                  <![CDATA[
-                      <h3>Автомобильный компрессор Xiaomi однопоршневой тесттест обновления</h3>
-                      <p>Хороший компрессор</p>
-                  ]]>
-              </description>
-              <country_of_origin>Китай</country_of_origin>
-              <barcode>7078881112911</barcode>
-              <weight>3.6</weight>
-              <dimensions>20.1/20.5/22.5</dimensions>
-              <param name="Цвет">белый</param>
-              <param name="Номер карточки">компрессоры красивые</param>
+                <param name="Тип препарата">лекарственный препарат</param>
+                <param name="Дозировка">8мг+100мг+2мг</param>
             </offer>
         </offers>
     </shop>
