@@ -25,7 +25,7 @@
                 <set-ids>yml</set-ids> <!-- это поле ТЕГ -->
 
                 <price>1001</price>
-                <oldprice>1000</oldprice>
+                <oldprice>1100</oldprice>
                 <purchase_price>200</purchase_price>
                 <additional_expenses>75</additional_expenses>
                 <cofinance_price>900</cofinance_price>
