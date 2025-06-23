@@ -43,6 +43,7 @@
                 <weight>1.6</weight>
                 <dimensions>10.1/10.5/12.5</dimensions>
                 <box-count>1</box-count>
+                <certificate>П N012124/03</certificate>
 
                 <param name="Тип препарата">лекарственный препарат</param>
                 <param name="Дозировка">8мг+100мг+2мг</param>
